@@ -1,3 +1,6 @@
+#CSV that is generated and too large for github
+.\Citi_Data\combined_data.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
