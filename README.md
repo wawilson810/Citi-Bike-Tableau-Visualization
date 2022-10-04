@@ -1,2 +1,3 @@
-# tableau-challenge
+# Citi-Bike-Tableau-Visualization
+
 This repository contains a jupyter notebook that is meant to process data downloaded from [Citi Bike's publically available datasets](https://s3.amazonaws.com/tripdata/index.html) to be used in this [Tableau project](https://public.tableau.com/app/profile/walter.wilson6579/viz/CitiHomework/Story1#1). The notebook reads in the data from csv files located in the Resources folder and combines them into a single csv. This notebook will only definitively work with the data from August 2021-July 2022 in the format it was available in as of August 2022. If one would like to use data from a different period of time or if Citi changes the format of their csv files, the notebook may have to be revised.
